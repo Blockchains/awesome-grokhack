@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T14:50:26Z",
+ "generated_at": "2026-10-04T14:51:53Z",
  "owner": "Blockchains",
  "criteria": {
   "licence": "OSI open-source licence (custom/source-available/non-commercial excluded; xai-org/xai-cookbook kept as official with its MIT-style xAI licence)",
@@ -9,7 +9,7 @@
   "excluded": "awesome/list/prompt-leak repos, account-pooling / reverse-engineered consumer-app access (ToS risk)",
   "cap": "~100 forks; official first, then Grok-specific repos, then by stars"
  },
- "count": 42,
+ "count": 44,
  "repos": [
   {
    "fork": "Blockchains/grok-1",
@@ -155,7 +155,7 @@
    "fork": "Blockchains/langchain",
    "upstream": "langchain-ai/langchain",
    "category": "sdk-provider",
-   "stars": 147433,
+   "stars": 147434,
    "license": "MIT",
    "license_spdx_github": "MIT",
    "pushed_at": "2026-10-04T10:17:02Z",
@@ -164,6 +164,20 @@
    "grok_specific": false,
    "verified_by": "code search \"api.x.ai\": libs/partners/xai/langchain_xai/chat_models.py, libs/partners/xai/tests/unit_tests/test_chat_models_standard.py, libs/partners/xai/tests/unit_tests/__snapshots__/test_chat_models_standard.ambr",
    "forked_at": "2026-10-03T19:47:52"
+  },
+  {
+   "fork": "Blockchains/ai",
+   "upstream": "vercel/ai",
+   "category": "sdk-provider",
+   "stars": 27116,
+   "license": "Apache-2.0",
+   "license_spdx_github": "NOASSERTION",
+   "pushed_at": "2026-10-04T14:49:42Z",
+   "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+   "language": "TypeScript",
+   "grok_specific": false,
+   "verified_by": "code search \"api.x.ai\": packages/xai/src/xai-provider.ts, examples/harness-e2e-next/agent/harness/acp-grok-build/harness.ts, examples/ai-functions/src/stream-text/xai/openai-compat-file-search.ts",
+   "forked_at": "2026-10-04T15:51:48"
   },
   {
    "fork": "Blockchains/cc-switch",
@@ -183,7 +197,7 @@
    "fork": "Blockchains/OmniRoute",
    "upstream": "diegosouzapw/OmniRoute",
    "category": "gateway-router",
-   "stars": 72847,
+   "stars": 72848,
    "license": "MIT",
    "license_spdx_github": "MIT",
    "pushed_at": "2026-10-02T18:26:57Z",
@@ -519,7 +533,7 @@
    "fork": "Blockchains/airi",
    "upstream": "moeru-ai/airi",
    "category": "chat-ui",
-   "stars": 50019,
+   "stars": 50020,
    "license": "MIT",
    "license_spdx_github": "MIT",
    "pushed_at": "2026-10-04T14:28:02Z",
@@ -561,7 +575,7 @@
    "fork": "Blockchains/firecrawl",
    "upstream": "firecrawl/firecrawl",
    "category": "app",
-   "stars": 188479,
+   "stars": 188480,
    "license": "AGPL-3.0",
    "license_spdx_github": "AGPL-3.0",
    "pushed_at": "2026-10-03T18:46:17Z",
@@ -575,7 +589,7 @@
    "fork": "Blockchains/MoneyPrinterTurbo",
    "upstream": "harry0703/MoneyPrinterTurbo",
    "category": "app",
-   "stars": 128374,
+   "stars": 128375,
    "license": "MIT",
    "license_spdx_github": "MIT",
    "pushed_at": "2026-10-04T06:48:17Z",
@@ -584,6 +598,20 @@
    "grok_specific": false,
    "verified_by": "code search \"api.x.ai\": app/models/llm_provider.py, test/services/test_llm.py",
    "forked_at": "2026-10-03T19:48:24"
+  },
+  {
+   "fork": "Blockchains/ai-hedge-fund",
+   "upstream": "virattt/ai-hedge-fund",
+   "category": "app",
+   "stars": 63854,
+   "license": "MIT",
+   "license_spdx_github": "MIT",
+   "pushed_at": "2026-10-02T14:19:04Z",
+   "description": "An AI Hedge Fund Team",
+   "language": "Python",
+   "grok_specific": false,
+   "verified_by": "code search XAI_API_KEY: hedge_fund/llm/registry.py, .env.example",
+   "forked_at": "2026-10-04T15:51:11"
   },
   {
    "fork": "Blockchains/OpenMausBot",

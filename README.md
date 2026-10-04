@@ -6,7 +6,7 @@ Every fork's Grok/xAI integration surface (endpoints, models, tool calling, stre
 [Blockchains/grokhack-index](https://github.com/Blockchains/grokhack-index) ([search](https://blockchains.github.io/grokhack-index/)) and used by
 [grokhack.com /forge](https://grokhack.com/forge) ([composer](https://github.com/Blockchains/grokhack-forge)) to compose new apps.
 
-**42 repos** · generated 2026-10-04T14:50:26Z · stars/licence/last push read from the GitHub API at generation time.
+**44 repos** · generated 2026-10-04T14:51:53Z · stars/licence/last push read from the GitHub API at generation time.
 
 ## Selection criteria
 
@@ -20,12 +20,12 @@ Every fork's Grok/xAI integration surface (endpoints, models, tool calling, stre
 ## Contents
 
 - [Official xAI repos](#official-xai-repos) (10)
-- [SDKs and framework providers](#sdks-and-framework-providers) (1)
+- [SDKs and framework providers](#sdks-and-framework-providers) (2)
 - [Gateways, routers and proxies](#gateways-routers-and-proxies) (7)
 - [Agent frameworks](#agent-frameworks) (4)
 - [Coding agents and CLI tools](#coding-agents-and-cli-tools) (12)
 - [Chat UIs and desktop clients](#chat-uis-and-desktop-clients) (5)
-- [Apps built on Grok](#apps-built-on-grok) (3)
+- [Apps built on Grok](#apps-built-on-grok) (4)
 
 ## Official xAI repos
 
@@ -46,14 +46,15 @@ Every fork's Grok/xAI integration surface (endpoints, models, tool calling, stre
 
 | Project | Fork | Stars | Licence | Last push | Description |
 |---|---|---:|---|---|---|
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | [Blockchains/langchain](https://github.com/Blockchains/langchain) | 147,433 | MIT | 2026-10-04 | The agent engineering platform. |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | [Blockchains/langchain](https://github.com/Blockchains/langchain) | 147,434 | MIT | 2026-10-04 | The agent engineering platform. |
+| [vercel/ai](https://github.com/vercel/ai) | [Blockchains/ai](https://github.com/Blockchains/ai) | 27,116 | Apache-2.0 | 2026-10-04 | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications a |
 
 ## Gateways, routers and proxies
 
 | Project | Fork | Stars | Licence | Last push | Description |
 |---|---|---:|---|---|---|
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | [Blockchains/cc-switch](https://github.com/Blockchains/cc-switch) | 139,947 | MIT | 2026-10-04 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website:  |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Blockchains/OmniRoute](https://github.com/Blockchains/OmniRoute) | 72,847 | MIT | 2026-10-02 | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Mini |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Blockchains/OmniRoute](https://github.com/Blockchains/OmniRoute) | 72,848 | MIT | 2026-10-02 | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Mini |
 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | [Blockchains/opencodex](https://github.com/Blockchains/opencodex) | 16,907 | MIT | 2026-10-04 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, an |
 | [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | [Blockchains/GoModel](https://github.com/Blockchains/GoModel) | 1,212 | MIT | 2026-10-04 | AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini |
 | [jeremychone/rust-genai](https://github.com/jeremychone/rust-genai) | [Blockchains/rust-genai](https://github.com/Blockchains/rust-genai) | 896 | Apache-2.0 | 2026-09-27 | Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, ZAI, OpenRouter, FireworksAI, xAI/Grok, Groq,, ...) |
@@ -92,7 +93,7 @@ Every fork's Grok/xAI integration surface (endpoints, models, tool calling, stre
 |---|---|---:|---|---|---|
 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | [Blockchains/NextChat](https://github.com/Blockchains/NextChat) | 88,833 | MIT | 2026-08-11 | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | [Blockchains/anything-llm](https://github.com/Blockchains/anything-llm) | 66,708 | MIT | 2026-10-04 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | [Blockchains/airi](https://github.com/Blockchains/airi) | 50,019 | MIT | 2026-10-04 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neu |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | [Blockchains/airi](https://github.com/Blockchains/airi) | 50,020 | MIT | 2026-10-04 | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neu |
 | [chatboxai/chatbox](https://github.com/chatboxai/chatbox) | [Blockchains/chatbox](https://github.com/Blockchains/chatbox) | 41,937 | GPL-3.0 | 2026-09-24 | Powerful AI Client |
 | [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) | [Blockchains/py-gpt](https://github.com/Blockchains/py-gpt) | 1,971 | MIT | 2026-10-03 | Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugi |
 
@@ -100,8 +101,9 @@ Every fork's Grok/xAI integration surface (endpoints, models, tool calling, stre
 
 | Project | Fork | Stars | Licence | Last push | Description |
 |---|---|---:|---|---|---|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | [Blockchains/firecrawl](https://github.com/Blockchains/firecrawl) | 188,479 | AGPL-3.0 | 2026-10-03 | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [Blockchains/MoneyPrinterTurbo](https://github.com/Blockchains/MoneyPrinterTurbo) | 128,374 | MIT | 2026-10-04 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | [Blockchains/firecrawl](https://github.com/Blockchains/firecrawl) | 188,480 | AGPL-3.0 | 2026-10-03 | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [Blockchains/MoneyPrinterTurbo](https://github.com/Blockchains/MoneyPrinterTurbo) | 128,375 | MIT | 2026-10-04 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [Blockchains/ai-hedge-fund](https://github.com/Blockchains/ai-hedge-fund) | 63,854 | MIT | 2026-10-02 | An AI Hedge Fund Team |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [Blockchains/OpenMausBot](https://github.com/Blockchains/OpenMausBot) | 4,022 | Apache-2.0 | 2026-10-04 | Open-source Grok Bot alternative with a virtual machine that bots can use |
 
 ## Considered but not forked
