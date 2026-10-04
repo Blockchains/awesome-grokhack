@@ -1,0 +1,1422 @@
+[
+ {
+  "upstream": "xai-org/plugin-marketplace",
+  "stars": 276,
+  "reason": "no licence"
+ },
+ {
+  "upstream": "obra/superpowers",
+  "stars": 294822,
+  "reason": "Grok/xAI only mentioned in docs, not code"
+ },
+ {
+  "upstream": "n8n-io/n8n",
+  "stars": 206576,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "Significant-Gravitas/AutoGPT",
+  "stars": 187645,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "langgenius/dify",
+  "stars": 157773,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "open-webui/open-webui",
+  "stars": 153872,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "OpenHands/OpenHands",
+  "stars": 89890,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lobehub/lobehub",
+  "stars": 82965,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "Alishahryar1/free-claude-code",
+  "stars": 56446,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "router-for-me/CLIProxyAPI",
+  "stars": 54008,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "elder-plinius/CL4R1T4S",
+  "stars": 50860,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "chatanywhere/GPT_API_free",
+  "stars": 43550,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Wei-Shaw/sub2api",
+  "stars": 43249,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "langchain-ai/langgraph",
+  "stars": 42672,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "langfuse/langfuse",
+  "stars": 35337,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "decolua/9router",
+  "stars": 30238,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "assafelovic/gpt-researcher",
+  "stars": 29894,
+  "reason": "Grok/xAI only mentioned in docs, not code"
+ },
+ {
+  "upstream": "openai/openai-agents-python",
+  "stars": 29824,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "yamadashy/repomix",
+  "stars": 28662,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "microsoft/semantic-kernel",
+  "stars": 28621,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "charmbracelet/crush",
+  "stars": 28474,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "virattt/dexter",
+  "stars": 27637,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "letta-ai/letta",
+  "stars": 25022,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "comet-ml/opik",
+  "stars": 22355,
+  "reason": "Grok/xAI only mentioned in docs, not code"
+ },
+ {
+  "upstream": "vercel/chatbot",
+  "stars": 20985,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "SWE-agent/SWE-agent",
+  "stars": 20478,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "jlcodes99/cockpit-tools",
+  "stars": 18610,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "xx025/carrot",
+  "stars": 17203,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "ai-shifu/ChatALL",
+  "stars": 16503,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "langchain4j/langchain4j",
+  "stars": 13199,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "jacobgil/pytorch-grad-cam",
+  "stars": 12988,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "simonw/llm",
+  "stars": 12583,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "langgptai/LangGPT",
+  "stars": 12569,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Arize-ai/phoenix",
+  "stars": 11690,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "cobusgreyling/loop-engineering",
+  "stars": 11412,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "EKKOLearnAI/ekko-studio",
+  "stars": 11287,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "pinchtab/pinchtab",
+  "stars": 10331,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "trailhq/Graft",
+  "stars": 9535,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "spring-projects/spring-ai",
+  "stars": 9507,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "crynta/terax-ai",
+  "stars": 9289,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lencx/Noi",
+  "stars": 9064,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "justlovemaki/AIClient2API",
+  "stars": 8839,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "HarnessMD/munder-difflin",
+  "stars": 8351,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "chenyme/grok2api",
+  "stars": 7772,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "traceloop/openllmetry",
+  "stars": 7467,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lintsinghua/DeepAudit",
+  "stars": 7108,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "interpretml/interpret",
+  "stars": 6954,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "zhukunpenglinyutong/jetbrains-cc-gui",
+  "stars": 6773,
+  "reason": "Grok/xAI only mentioned in docs, not code"
+ },
+ {
+  "upstream": "BlockRunAI/ClawRouter",
+  "stars": 6613,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "elder-plinius/T3MP3ST",
+  "stars": 6307,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "Dicklesworthstone/destructive_command_guard",
+  "stars": 6074,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "21st-dev/magic-mcp",
+  "stars": 5962,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lucidrains/x-transformers",
+  "stars": 5952,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "fengshao1227/ccg-workflow",
+  "stars": 5925,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "junhoyeo/tokscale",
+  "stars": 5613,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Anil-matcha/open-dots",
+  "stars": 5297,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "SaladDay/cc-switch-cli",
+  "stars": 5212,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "linuxhsj/openclaw-zero-token",
+  "stars": 5198,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "QLHazyCoder/FlowPilot",
+  "stars": 5185,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Waishnav/devspace",
+  "stars": 5179,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "zzsting88/relayAPI",
+  "stars": 4869,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "NateBJones-Projects/OB1",
+  "stars": 4675,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "oracle-devrel/oracle-ai-developer-hub",
+  "stars": 4403,
+  "reason": "Grok/xAI only mentioned in docs, not code"
+ },
+ {
+  "upstream": "cursor/cookbook",
+  "stars": 4113,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "openai/openai-agents-js",
+  "stars": 3885,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Goochbeater/Spiritual-Spell-Red-Teaming",
+  "stars": 3777,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "nextlevelbuilder/goclaw",
+  "stars": 3640,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "dimthink/PriceAI",
+  "stars": 3609,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "wdcpclover/ai4paper",
+  "stars": 3596,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "matomo-org/device-detector",
+  "stars": 3531,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "metorial/metorial",
+  "stars": 3362,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "guanguans/favorite-link",
+  "stars": 3346,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lxf746/any-auto-register",
+  "stars": 3323,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "vectara/hallucination-leaderboard",
+  "stars": 3316,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "elie222/rakazo",
+  "stars": 3283,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "sopaco/deepwiki-rs",
+  "stars": 3103,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+  "stars": 3064,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "dwgx/WindsurfAPI",
+  "stars": 3058,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Nanako0129/sepia",
+  "stars": 2943,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "OpenMind/OM1",
+  "stars": 2940,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "folke/sidekick.nvim",
+  "stars": 2784,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "wassim249/fastapi-langgraph-agent-production-ready-template",
+  "stars": 2689,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "papersgpt/papersgpt-for-zotero",
+  "stars": 2661,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lobehub/lobe-icons",
+  "stars": 2563,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "vercel/ai-elements",
+  "stars": 2473,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "spacedriveapp/spacebot",
+  "stars": 2402,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "zebbern/no-cost-ai",
+  "stars": 2306,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "romgX/openrelay",
+  "stars": 2306,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "AmberLJC/LLMSys-PaperList",
+  "stars": 2285,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "AaronL725/grok-register",
+  "stars": 2276,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "yyjeqhc/webcodex",
+  "stars": 2122,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Alisa0808/vox-director",
+  "stars": 2117,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "mvanhorn/printing-press-library",
+  "stars": 2050,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "numtide/llm-agents.nix",
+  "stars": 2045,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Octane0411/open-vibe-island",
+  "stars": 2041,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "CaviraOSS/PageLM",
+  "stars": 2025,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "shcherbak-ai/contextgem",
+  "stars": 2007,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "AntigmaLabs/ante",
+  "stars": 1997,
+  "reason": "Grok/xAI only mentioned in docs, not code"
+ },
+ {
+  "upstream": "xiufengsun/TokenTracker",
+  "stars": 1952,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "filiksyos/gitreverse",
+  "stars": 1949,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "skalesapp/skales",
+  "stars": 1931,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "xenodium/agent-shell",
+  "stars": 1920,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "jiujiu532/grok2api",
+  "stars": 1874,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "Dicklesworthstone/pi_agent_rust",
+  "stars": 1836,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "Trusted-AI/AIX360",
+  "stars": 1807,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Nexting-ai/nexting",
+  "stars": 1678,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Dicklesworthstone/agentic_coding_flywheel_setup",
+  "stars": 1659,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "krusemediallc/arcads-claude-code",
+  "stars": 1564,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "egoist/waku",
+  "stars": 1557,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "tddworks/ClaudeBar",
+  "stars": 1517,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "ModelOriented/DALEX",
+  "stars": 1487,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "najmuzzaman-mohammad/gawkbot",
+  "stars": 1481,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "wordware-ai/twitter",
+  "stars": 1450,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "WSTxda/SwitchAI",
+  "stars": 1438,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "nyrahealth/CrisperWhisper",
+  "stars": 1436,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "agentenv/agentflow",
+  "stars": 1407,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "wikieden/Freedom-To-Chatgpt-Claude-Agent",
+  "stars": 1393,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "yym68686/uni-api",
+  "stars": 1266,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "xianyu110/gpt-codex",
+  "stars": 1221,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "FranciscoMoretti/chat-js",
+  "stars": 1200,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Dicklesworthstone/coding_agent_session_search",
+  "stars": 1159,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "vshulcz/deja-vu",
+  "stars": 1123,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "yfedoseev/pdf_oxide",
+  "stars": 1061,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "MadAppGang/claudish",
+  "stars": 1004,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "Comfy-Org/comfy-cli",
+  "stars": 994,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "xing61/zzz-api",
+  "stars": 987,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "devanshutak25/3d-resources",
+  "stars": 973,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "friuns2/codex-mobile",
+  "stars": 950,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lij768423-svg/grok-register-panel",
+  "stars": 914,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "dairoot/Grok-Mirror",
+  "stars": 913,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "andysingal/llm-course",
+  "stars": 892,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "superiorlu/AITreasureBox",
+  "stars": 870,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "theswerd/brainless",
+  "stars": 831,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "3641397194-wq/gpt6-Astra",
+  "stars": 788,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "retkowsky/Azure-AIGEN-demos",
+  "stars": 755,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "deel-ai/xplique",
+  "stars": 754,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "gmickel/flow-next",
+  "stars": 706,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "OpenRouterTeam/ai-sdk-provider",
+  "stars": 688,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "rome-os/rome",
+  "stars": 681,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "understandable-machine-intelligence-lab/Quantus",
+  "stars": 676,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "raine/claude-code-proxy",
+  "stars": 633,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Git-creat7/grokRegister-cpa",
+  "stars": 583,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "HM2899/grokcli-2api",
+  "stars": 577,
+  "reason": "account-pooling / reverse-engineered access / ToS risk"
+ },
+ {
+  "upstream": "unicodef1wn/grokbot-field-notes",
+  "stars": 570,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "YoanWai/agent-manager",
+  "stars": 559,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Charles-0509/Grok-Register",
+  "stars": 521,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "xinxinshuhao-create/grok-register",
+  "stars": 519,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Jia-Ethan/grok-keysmith",
+  "stars": 482,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "OnlyTerp/opengrok",
+  "stars": 470,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "bigsk1/voice-chat-ai",
+  "stars": 466,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "Episkey-G/GrokSearch-rs",
+  "stars": 454,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "explainX/explainx",
+  "stars": 452,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "devcodex-labs/devcodex",
+  "stars": 439,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "Prysai/Prysai-LLM-Playbook",
+  "stars": 437,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "sam70361/aora-bot",
+  "stars": 436,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "opentokenz/mcpx",
+  "stars": 427,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "V1ki/dsh-plugin-subscriptions",
+  "stars": 418,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "Lyellr88/marm-memory",
+  "stars": 413,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "elmohq/elmo",
+  "stars": 407,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "ReinerBRO/grok-register",
+  "stars": 403,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "djfksjd/ir-search",
+  "stars": 393,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "jerrywu001/cc-sessions-viewer",
+  "stars": 392,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "djcopley/ShellOracle",
+  "stars": 353,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "jurieo/chatgpt-share-web",
+  "stars": 352,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Anil-matcha/Open-AI-UGC",
+  "stars": 349,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "nightly-labs/openbot",
+  "stars": 342,
+  "reason": "no OSI open-source licence detected"
+ },
+ {
+  "upstream": "tuchg/Lucarne",
+  "stars": 338,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "aqua5230/usage",
+  "stars": 332,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "Mng-dev-ai/agentrove",
+  "stars": 332,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "emir/AIKON",
+  "stars": 321,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "hristo2612/jinn",
+  "stars": 320,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "design-gurus/grokking-system-design",
+  "stars": 319,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "lij768423-svg/grok2api-egress-enhancements",
+  "stars": 318,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "realasfngl/Grok-Api",
+  "stars": 315,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "FlamxGames/godot-ai-assistant-hub",
+  "stars": 312,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "mrdainami/nami",
+  "stars": 302,
+  "reason": "below 500 stars"
+ },
+ {
+  "upstream": "deepset-ai/haystack-core-integrations",
+  "stars": 208,
+  "reason": "no Grok/xAI reference found by code search"
+ },
+ {
+  "upstream": "nullclaw/nullclaw",
+  "stars": 8101,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "osaurus-ai/osaurus",
+  "stars": 8019,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "GoogleCloudPlatform/kubectl-ai",
+  "stars": 7571,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "mnfst/llm-gateway",
+  "stars": 7551,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "craft-ai-agents/craft-agents-oss",
+  "stars": 7223,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "enricoros/big-AGI",
+  "stars": 7136,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "htdt/godogen",
+  "stars": 7040,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "tbphp/gpt-load",
+  "stars": 7039,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "stagewise-io/stagewise",
+  "stars": 6824,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "e2b-dev/fragments",
+  "stars": 6381,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Helicone/helicone",
+  "stars": 6197,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "PawanOsman/OpenCursor",
+  "stars": 6029,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "mindcraft-bots/mindcraft",
+  "stars": 5834,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "BitterSecurity/Decepticon",
+  "stars": 5652,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "awarexone/Agentic-Bug-Hunter",
+  "stars": 5250,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "ParisNeo/lollms-webui",
+  "stars": 4791,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "eugeniughelbur/obsidian-second-brain",
+  "stars": 4666,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "get-convex/chef",
+  "stars": 4603,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "VRSEN/agency-swarm",
+  "stars": 4589,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "yetone/magpie",
+  "stars": 4444,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "gptme/gptme",
+  "stars": 4442,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "router-for-me/Cli-Proxy-API-Management-Center",
+  "stars": 4439,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "crmne/ruby_llm",
+  "stars": 4427,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "nyldn/claude-octopus",
+  "stars": 4140,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Chevey339/kelivo",
+  "stars": 4121,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "steipete/oracle",
+  "stars": 4040,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "yuruotong1/autoMate",
+  "stars": 3965,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+  "stars": 3936,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "duolahypercho/codex-router",
+  "stars": 3912,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "seakee/CPA-Manager-Plus",
+  "stars": 3730,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "simonlin1212/TradingAgents-astock",
+  "stars": 3609,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "karthink/gptel",
+  "stars": 3543,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "docker/docker-agent",
+  "stars": 3372,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "johnbean393/Sidekick",
+  "stars": 3317,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "ColeMurray/background-agents",
+  "stars": 3310,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "edison7009/EchoBird",
+  "stars": 3285,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "vercel-labs/fx",
+  "stars": 3267,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "minitap-ai/mobile-use",
+  "stars": 3218,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "cosmicstack-labs/mercury-agent",
+  "stars": 3167,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "TanStack/ai",
+  "stars": 3161,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "spiceai/spiceai",
+  "stars": 3097,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "ax-llm/ax",
+  "stars": 2959,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "CyberStrikeus/CyberStrike",
+  "stars": 2928,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Yeachan-Heo/gajae-code",
+  "stars": 2902,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "jnsahaj/lumen",
+  "stars": 2881,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "kaitranntt/ccs",
+  "stars": 2870,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "openlit/openlit",
+  "stars": 2813,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Zero6992/chatGPT-discord-bot",
+  "stars": 2735,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "AtomicBot-ai/atomic-agent",
+  "stars": 2723,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "iamsrikanthnani/pluely",
+  "stars": 2705,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "router-for-me/EasyCLIProxyAPI",
+  "stars": 2669,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "fivetaku/insane-search",
+  "stars": 2536,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "heshengtao/comfyui_LLM_party",
+  "stars": 2369,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "aldegad/sprite-gen",
+  "stars": 2348,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "jnMetaCode/agency-orchestrator",
+  "stars": 2319,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Pinvou/pinvou-agent",
+  "stars": 2293,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Kocoro-lab/Shannon",
+  "stars": 2279,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "777genius/agent-teams-ai",
+  "stars": 2217,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Kritt-ai/open-kritt",
+  "stars": 2198,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "sierra-research/tau2-bench",
+  "stars": 2158,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "future-agi/future-agi",
+  "stars": 2107,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "raphaelmansuy/edgequake",
+  "stars": 2099,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "0xsline/OpenChatCut",
+  "stars": 2095,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "akdeb/ElatoAI",
+  "stars": 2026,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Niek/chatgpt-web",
+  "stars": 2001,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "openakita/openakita",
+  "stars": 1999,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "yologdev/yoyo-evolve",
+  "stars": 1882,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "TypeWhisper/typewhisper-mac",
+  "stars": 1820,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "wm94i/Work-Review",
+  "stars": 1806,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "shiwenwen/hope-agent",
+  "stars": 1721,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "mithun50/openclaw-termux",
+  "stars": 1719,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Twigpine/zero",
+  "stars": 1694,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "kenryu42/cc-safety-net",
+  "stars": 1575,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "nicobailon/pi-web-access",
+  "stars": 1572,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "dirac-run/dirac",
+  "stars": 1521,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "DEEIX-AI/DEEIX-Chat",
+  "stars": 1519,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "xaitax/SploitScan",
+  "stars": 1422,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "JoasASantos/NeuroSploit",
+  "stars": 1412,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "jofizcd/Soul-of-Waifu",
+  "stars": 1367,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "pgrundev/pgbot",
+  "stars": 1353,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "pullfrog/pullfrog",
+  "stars": 1276,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "thClaws/thClaws",
+  "stars": 1237,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+  "stars": 1236,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "brainlid/langchain",
+  "stars": 1204,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "webbrain-one/webbrain",
+  "stars": 1200,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "SamuelZ12/longcut",
+  "stars": 1188,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "keinsaasforever/better-chatbot",
+  "stars": 1184,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "rockbenben/subtitle-translator",
+  "stars": 1148,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "0x6rss/matkap",
+  "stars": 1036,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "tong-io/tongflow",
+  "stars": 1035,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "kittors/CliRelay",
+  "stars": 1026,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "huiliyi37/Tianshu-harness",
+  "stars": 1025,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "qiz029/dscode",
+  "stars": 1015,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "CopilotKit/aimock",
+  "stars": 957,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Renset/macai",
+  "stars": 931,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "agentforce314/clawcodex",
+  "stars": 903,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "LvcidPsyche/auto-browser",
+  "stars": 897,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "kdlbs/kandev",
+  "stars": 891,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "alfredxw/denova",
+  "stars": 859,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "lidge-ai/ima2-gen",
+  "stars": 853,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "jakobdylanc/llmcord",
+  "stars": 835,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "frankroeder/parrot.nvim",
+  "stars": 792,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "smallmain/vscode-unify-chat-provider",
+  "stars": 721,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "Deuz-AI/Deuz-SDK",
+  "stars": 697,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "samuelfaj/distill",
+  "stars": 691,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "nodetool-ai/nodetool",
+  "stars": 549,
+  "reason": "over the ~100 fork cap (lower stars)"
+ },
+ {
+  "upstream": "gnh1201/welsonjs",
+  "stars": 512,
+  "reason": "over the ~100 fork cap (lower stars)"
+ }
+]
