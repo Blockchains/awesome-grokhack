@@ -9,22 +9,8 @@
   "excluded": "awesome/list/prompt-leak repos, account-pooling / reverse-engineered consumer-app access (ToS risk)",
   "cap": "~100 forks; official first, then Grok-specific repos, then by stars"
  },
- "count": 100,
+ "count": 99,
  "repos": [
-  {
-   "fork": "Blockchains/grok-1",
-   "upstream": "xai-org/grok-1",
-   "category": "official",
-   "stars": 52233,
-   "license": "Apache-2.0",
-   "license_spdx_github": "Apache-2.0",
-   "pushed_at": "2024-08-30T04:17:25Z",
-   "description": "Grok open release",
-   "language": "Python",
-   "grok_specific": true,
-   "verified_by": "official xai-org repo",
-   "forked_at": "2026-10-03T19:29:51"
-  },
   {
    "fork": "Blockchains/x-algorithm",
    "upstream": "xai-org/x-algorithm",

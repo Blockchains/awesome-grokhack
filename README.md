@@ -6,7 +6,7 @@ Every fork's Grok/xAI integration surface (endpoints, models, tool calling, stre
 [Blockchains/grokhack-index](https://github.com/Blockchains/grokhack-index) ([search](https://blockchains.github.io/grokhack-index/)) and used by
 the [grokhack-forge composer](https://github.com/Blockchains/grokhack-forge) to compose new apps.
 
-**100 repos** · generated 2026-10-04T16:20:05Z · stars/licence/last push read from the GitHub API at generation time.
+**99 repos** · generated 2026-10-04T16:20:05Z · stars/licence/last push read from the GitHub API at generation time.
 
 ## Selection criteria
 
@@ -19,7 +19,7 @@ the [grokhack-forge composer](https://github.com/Blockchains/grokhack-forge) to 
 
 ## Contents
 
-- [Official xAI repos](#official-xai-repos) (10)
+- [Official xAI repos](#official-xai-repos) (9)
 - [SDKs and framework providers](#sdks-and-framework-providers) (7)
 - [Gateways, routers and proxies](#gateways-routers-and-proxies) (8)
 - [Agent frameworks](#agent-frameworks) (15)
@@ -33,7 +33,6 @@ the [grokhack-forge composer](https://github.com/Blockchains/grokhack-forge) to 
 
 | Project | Fork | Stars | Licence | Last push | Description |
 |---|---|---:|---|---|---|
-| [xai-org/grok-1](https://github.com/xai-org/grok-1) | [Blockchains/grok-1](https://github.com/Blockchains/grok-1) | 52,233 | Apache-2.0 | 2024-08-30 | Grok open release |
 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | [Blockchains/x-algorithm](https://github.com/Blockchains/x-algorithm) | 33,506 | Apache-2.0 | 2026-10-03 | Algorithm powering the For You feed on X |
 | [xai-org/grok-build](https://github.com/xai-org/grok-build) | [Blockchains/grok-build](https://github.com/Blockchains/grok-build) | 27,218 | Apache-2.0 | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
 | [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) | [Blockchains/grok-prompts](https://github.com/Blockchains/grok-prompts) | 4,503 | AGPL-3.0 | 2025-11-17 | Prompts for our Grok chat assistant and the `@grok` bot on X. |
@@ -187,6 +186,12 @@ the [grokhack-forge composer](https://github.com/Blockchains/grokhack-forge) to 
 - 1 × no licence
 
 Full list with reasons: [`skipped.json`](skipped.json).
+
+## Archived
+
+Forks archived on 2026-10-04 because their upstream had no push in the 12 months before that date. The fork stays readable (and can be unarchived); it is no longer in the list above or the index.
+
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) (fork: Blockchains/grok-1, archived): upstream last pushed 2024-08-30.
 
 ## Licence
 
