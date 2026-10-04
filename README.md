@@ -4,7 +4,7 @@ Curated, verified list of open-source projects that integrate **Grok / the xAI A
 [github.com/Blockchains](https://github.com/Blockchains) for [The Grok Hack](https://grokhack.com/). Machine-readable: [`grok-forge.json`](grok-forge.json).
 Every fork's Grok/xAI integration surface (endpoints, models, tool calling, streaming, env vars, SDK exports) is indexed nightly in
 [Blockchains/grokhack-index](https://github.com/Blockchains/grokhack-index) ([search](https://blockchains.github.io/grokhack-index/)) and used by
-[grokhack.com /forge](https://grokhack.com/forge) ([composer](https://github.com/Blockchains/grokhack-forge)) to compose new apps.
+the [grokhack-forge composer](https://github.com/Blockchains/grokhack-forge) to compose new apps.
 
 **100 repos** · generated 2026-10-04T16:20:05Z · stars/licence/last push read from the GitHub API at generation time.
 
@@ -191,3 +191,10 @@ Full list with reasons: [`skipped.json`](skipped.json).
 ## Licence
 
 This list: CC0-1.0. Each project keeps its own licence (column above); forks are unmodified mirrors of the upstream default branch.
+
+## Contributing
+
+Issues and pull requests are welcome. Please read the [contributing guide](https://github.com/Blockchains/.github/blob/main/CONTRIBUTING.md), [code of conduct](https://github.com/Blockchains/.github/blob/main/CODE_OF_CONDUCT.md) and [security policy](https://github.com/Blockchains/.github/blob/main/SECURITY.md) first.
+
+---
+Built by Blockchain Lab — [blockchainlab.com](https://blockchainlab.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-grokhack)
