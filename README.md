@@ -193,6 +193,39 @@ Forks archived on 2026-10-04 because their upstream had no push in the 12 months
 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) (fork: Blockchains/grok-1, archived): upstream last pushed 2024-08-30.
 
+<!-- blocks:start -->
+## Use as a building block
+
+> **For AI agents and builders:** read [`AGENTS.md`](AGENTS.md) (setup, commands, structure, rules), [`llms.txt`](llms.txt) (doc map) and the machine-readable [`blocks.json`](blocks.json) ([schema](https://github.com/Blockchains/.github/blob/main/docs/BLOCKS-SCHEMA.md)). How all Blockchains blocks fit together: **[Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md)** · org catalogue: [https://blockchains.github.io/blocks.json](https://blockchains.github.io/blocks.json).
+
+**What it exports**
+
+| Export | Type | Install / access |
+|---|---|---|
+| `grok-forge.json` | file | `https://raw.githubusercontent.com/Blockchains/awesome-grokhack/main/grok-forge.json` |
+| `skipped.json` | file | `candidates rejected, with reasons` |
+
+**Minimal example** (run on 2026-10-04)
+
+```bash
+curl -s https://raw.githubusercontent.com/Blockchains/awesome-grokhack/main/grok-forge.json \
+  | jq -r '.repos[] | select(.category=="sdk-provider") | "\(.fork) \(.license)"'
+```
+
+**Inputs → outputs**
+
+- In: none
+- Out: `repos[]` (JSON) fork, upstream, category, stars, license, pushed_at, description, language, grok_specific, verified_by
+
+**Composes with**
+
+- [Blockchains/grokhack-index](https://github.com/Blockchains/grokhack-index): nightly index of these forks' Grok surface (reads grok-forge.json)
+- [Blockchains/grokhack-forge](https://github.com/Blockchains/grokhack-forge): composes apps from the index
+- [Blockchains/grokhack-submissions](https://github.com/Blockchains/grokhack-submissions): entry template for The Grok Hack
+
+**Versioning & stability:** `stable`. `count` always equals `len(repos)`; categories: official, sdk-provider, gateway-router, agent-framework, coding-agent-cli, chat-ui, observability-eval, voice-realtime, app. Archived forks are moved to the README 'Archived' note.
+<!-- blocks:end -->
+
 ## Licence
 
 This list: CC0-1.0. Each project keeps its own licence (column above); forks are unmodified mirrors of the upstream default branch.

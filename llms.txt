@@ -1,0 +1,22 @@
+# awesome-grokhack
+
+> Curated list of 99 open-source Grok/xAI integrations (official xAI repos, SDKs, gateways, agent frameworks, coding agents, chat UIs, observability, voice, apps) forked under Blockchains, with machine-readable grok-forge.json.
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/Blockchains/awesome-grokhack/main/README.md): overview, install and the 'Use as a building block' section
+- [AGENTS.md](https://raw.githubusercontent.com/Blockchains/awesome-grokhack/main/AGENTS.md): setup, build/test commands, structure map, conventions and rules for AI coding agents
+- [blocks.json](https://raw.githubusercontent.com/Blockchains/awesome-grokhack/main/blocks.json): machine-readable building-block manifest (entrypoints, inputs, outputs, deps, compatible blocks)
+
+## Key files
+
+- [grok-forge.json](https://github.com/Blockchains/awesome-grokhack/blob/main/grok-forge.json): data
+- [README.md](https://github.com/Blockchains/awesome-grokhack/blob/main/README.md): list
+
+## Related
+
+- [Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md): how to assemble projects from Blockchains repos
+- [Org llms.txt](https://blockchains.github.io/llms.txt) · [blocks catalogue](https://blockchains.github.io/blocks.json)
+- [Blockchains/grokhack-index](https://github.com/Blockchains/grokhack-index): nightly index of these forks' Grok surface (reads grok-forge.json)
+- [Blockchains/grokhack-forge](https://github.com/Blockchains/grokhack-forge): composes apps from the index
+- [Blockchains/grokhack-submissions](https://github.com/Blockchains/grokhack-submissions): entry template for The Grok Hack

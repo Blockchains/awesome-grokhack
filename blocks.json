@@ -1,0 +1,62 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Blockchains/.github/main/docs/blocks.schema.json",
+  "schema_version": "1.0",
+  "name": "awesome-grokhack",
+  "repo": "Blockchains/awesome-grokhack",
+  "summary": "Curated list of 99 open-source Grok/xAI integrations (official xAI repos, SDKs, gateways, agent frameworks, coding agents, chat UIs, observability, voice, apps) forked under Blockchains, with machine-readable grok-forge.json.",
+  "kind": [
+    "curated-list",
+    "dataset"
+  ],
+  "stability": "stable",
+  "license": "MIT",
+  "entrypoints": [
+    {
+      "type": "file",
+      "name": "grok-forge.json",
+      "ref": "grok-forge.json",
+      "usage": "https://raw.githubusercontent.com/Blockchains/awesome-grokhack/main/grok-forge.json"
+    },
+    {
+      "type": "file",
+      "name": "skipped.json",
+      "ref": "skipped.json",
+      "usage": "candidates rejected, with reasons"
+    }
+  ],
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "repos[]",
+      "type": "JSON",
+      "description": "fork, upstream, category, stars, license, pushed_at, description, language, grok_specific, verified_by"
+    }
+  ],
+  "deps": [
+    "any JSON reader"
+  ],
+  "compatible_with": [
+    {
+      "repo": "Blockchains/grokhack-index",
+      "how": "nightly index of these forks' Grok surface (reads grok-forge.json)"
+    },
+    {
+      "repo": "Blockchains/grokhack-forge",
+      "how": "composes apps from the index"
+    },
+    {
+      "repo": "Blockchains/grokhack-submissions",
+      "how": "entry template for The Grok Hack"
+    }
+  ],
+  "tests": {
+    "command": "python3 -c \"import json;d=json.load(open('grok-forge.json'));assert d['count']==len(d['repos'])\"",
+    "ci": ".github/workflows/ci.yml",
+    "network": true
+  },
+  "docs": {
+    "readme": "README.md",
+    "agents": "AGENTS.md",
+    "llms": "llms.txt"
+  }
+}
